@@ -30,3 +30,7 @@ An interactive Excel dashboard developed to analyze salesperson performance and 
 
 ## Project Purpose
 The objective of this project is to transform raw call data into an interactive dashboard that helps understand salesperson performance and identify important call trends.
+## Dashboard Preview
+
+![Salesperson Call Analytics Dashboard](Sales_performance.png)
+
